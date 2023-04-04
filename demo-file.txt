@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Jenkins Github Integration demo</h1>
+<h1>Jenkins Github Integration </h1>
 <p> Anant you done with it </p>
 
 </body>
